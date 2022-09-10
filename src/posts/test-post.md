@@ -9,3 +9,7 @@ tags:
 # This is a test
 
 This is **Just** a test
+
+
+
+![](/static/img/52245374605_7d3203e963_o.jpg "This is an image test")
